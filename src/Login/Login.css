@@ -1,0 +1,30 @@
+body{
+    /* The image used */
+    background-image: url(../img/black.jpg);
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divLogin{
+    padding-top: 73%;
+    color: white;
+    width: 100%;
+}
+
+#email, #password{
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    
+}
+
+.inputField{
+    color: white !important;
+}
